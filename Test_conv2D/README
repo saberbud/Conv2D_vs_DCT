@@ -1,0 +1,5 @@
+test_conv2D_1.py shows a comparison between conv2D realized by Tensorflow and numpy in a straightforward manner.
+
+conv2d_funcs.py inlcude making the conv2D operation in loops.
+test_conv2D_funcs.py is used to test computation time of conv2D operations.
+

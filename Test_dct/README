@@ -1,0 +1,3 @@
+dct_funcs.py include functions that realize 2D-DCT in loop functions.
+test_dct_func.py tests the run time of DCT. A comparison with the dct from fftpack is also provided therein.
+
